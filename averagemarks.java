@@ -6,7 +6,7 @@
 //That is, you need to print the integer part of the average only and neglect the decimal part.
 
 import java.util.Scanner;
-public class Solution {
+public class classname {
 public static void main(String[] args) {
  Scanner s= new Scanner(System.in);  
  String str=s.next();
@@ -19,3 +19,4 @@ public static void main(String[] args) {
 }
 
 }
+//classname and 
